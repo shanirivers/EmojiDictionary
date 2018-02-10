@@ -1,0 +1,107 @@
+1F600 ; 6.1 # 😀 grinning face
+1F601 ; 6.0 # 😁 beaming face with smiling eyes
+1F602 ; 6.0 # 😂 face with tears of joy
+1F923 ; 9.0 # 🤣 rolling on the floor laughing
+1F603 ; 6.0 # 😃 grinning face with big eyes
+1F604 ; 6.0 # 😄 grinning face with smiling eyes
+1F605 ; 6.0 # 😅 grinning face with sweat
+1F606 ; 6.0 # 😆 grinning squinting face
+1F609 ; 6.0 # 😉 winking face
+1F60A ; 6.0 # 😊 smiling face with smiling eyes
+1F60B ; 6.0 # 😋 face savoring food
+1F60E ; 6.0 # 😎 smiling face with sunglasses
+1F60D ; 6.0 # 😍 smiling face with heart-eyes
+1F618 ; 6.0 # 😘 face blowing a kiss
+1F617 ; 6.1 # 😗 kissing face
+1F619 ; 6.1 # 😙 kissing face with smiling eyes
+1F61A ; 6.0 # 😚 kissing face with closed eyes
+263A ; 1.1 # ☺ smiling face
+1F642 ; 7.0 # 🙂 slightly smiling face
+1F917 ; 8.0 # 🤗 hugging face
+1F929 ; 10.0 # 🤩 star-struck
+1F914 ; 8.0 # 🤔 thinking face
+1F928 ; 10.0 # 🤨 face with raised eyebrow
+1F610 ; 6.0 # 😐 neutral face
+1F611 ; 6.1 # 😑 expressionless face
+1F636 ; 6.0 # 😶 face without mouth
+1F644 ; 8.0 # 🙄 face with rolling eyes
+1F60F ; 6.0 # 😏 smirking face
+1F623 ; 6.0 # 😣 persevering face
+1F625 ; 6.0 # 😥 sad but relieved face
+1F62E ; 6.1 # 😮 face with open mouth
+1F910 ; 8.0 # 🤐 zipper-mouth face
+1F62F ; 6.1 # 😯 hushed face
+1F62A ; 6.0 # 😪 sleepy face
+1F62B ; 6.0 # 😫 tired face
+1F634 ; 6.1 # 😴 sleeping face
+1F60C ; 6.0 # 😌 relieved face
+1F61B ; 6.1 # 😛 face with tongue
+1F61C ; 6.0 # 😜 winking face with tongue
+1F61D ; 6.0 # 😝 squinting face with tongue
+1F924 ; 9.0 # 🤤 drooling face
+1F612 ; 6.0 # 😒 unamused face
+1F613 ; 6.0 # 😓 downcast face with sweat
+1F614 ; 6.0 # 😔 pensive face
+1F615 ; 6.1 # 😕 confused face
+1F643 ; 8.0 # 🙃 upside-down face
+1F911 ; 8.0 # 🤑 money-mouth face
+1F632 ; 6.0 # 😲 astonished face
+2639 ; 1.1 # ☹ frowning face
+1F641 ; 7.0 # 🙁 slightly frowning face
+1F616 ; 6.0 # 😖 confounded face
+1F61E ; 6.0 # 😞 disappointed face
+1F61F ; 6.1 # 😟 worried face
+1F624 ; 6.0 # 😤 face with steam from nose
+1F622 ; 6.0 # 😢 crying face
+1F62D ; 6.0 # 😭 loudly crying face
+1F626 ; 6.1 # 😦 frowning face with open mouth
+1F627 ; 6.1 # 😧 anguished face
+1F628 ; 6.0 # 😨 fearful face
+1F629 ; 6.0 # 😩 weary face
+1F92F ; 10.0 # 🤯 exploding head
+1F62C ; 6.1 # 😬 grimacing face
+1F630 ; 6.0 # 😰 anxious face with sweat
+1F631 ; 6.0 # 😱 face screaming in fear
+1F633 ; 6.0 # 😳 flushed face
+1F92A ; 10.0 # 🤪 zany face
+1F635 ; 6.0 # 😵 dizzy face
+1F621 ; 6.0 # 😡 pouting face
+1F620 ; 6.0 # 😠 angry face
+1F92C ; 10.0 # 🤬 face with symbols on mouth
+1F637 ; 6.0 # 😷 face with medical mask
+1F912 ; 8.0 # 🤒 face with thermometer
+1F915 ; 8.0 # 🤕 face with head-bandage
+1F922 ; 9.0 # 🤢 nauseated face
+1F92E ; 10.0 # 🤮 face vomiting
+1F927 ; 9.0 # 🤧 sneezing face
+1F607 ; 6.0 # 😇 smiling face with halo
+1F920 ; 9.0 # 🤠 cowboy hat face
+1F921 ; 9.0 # 🤡 clown face
+1F925 ; 9.0 # 🤥 lying face
+1F92B ; 10.0 # 🤫 shushing face
+1F92D ; 10.0 # 🤭 face with hand over mouth
+1F9D0 ; 10.0 # 🧐 face with monocle
+1F913 ; 8.0 # 🤓 nerd face
+1F608 ; 6.0 # 😈 smiling face with horns
+1F47F ; 6.0 # 👿 angry face with horns
+1F479 ; 6.0 # 👹 ogre
+1F47A ; 6.0 # 👺 goblin
+1F480 ; 6.0 # 💀 skull
+2620 ; 1.1 # ☠ skull and crossbones
+1F47B ; 6.0 # 👻 ghost
+1F47D ; 6.0 # 👽 alien
+1F47E ; 6.0 # 👾 alien monster
+1F916 ; 8.0 # 🤖 robot face
+1F4A9 ; 6.0 # 💩 pile of poo
+1F63A ; 6.0 # 😺 grinning cat face
+1F638 ; 6.0 # 😸 grinning cat face with smiling eyes
+1F639 ; 6.0 # 😹 cat face with tears of joy
+1F63B ; 6.0 # 😻 smiling cat face with heart-eyes
+1F63C ; 6.0 # 😼 cat face with wry smile
+1F63D ; 6.0 # 😽 kissing cat face
+1F640 ; 6.0 # 🙀 weary cat face
+1F63F ; 6.0 # 😿 crying cat face
+1F63E ; 6.0 # 😾 pouting cat face
+1F648 ; 6.0 # 🙈 see-no-evil monkey
+1F649 ; 6.0 # 🙉 hear-no-evil monkey
+1F64A ; 6.0 # 🙊 speak-no-evil monkey
